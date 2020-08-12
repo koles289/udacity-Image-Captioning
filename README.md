@@ -6,9 +6,9 @@
  <br>For evaluation of neural network performance, we used perplexity. It measures how well the neural network predits the sample. A low perplexity means that NN is good at predicting captions for samples.
  
  <br>The result of training was automatically generated captios for sample images that were in many cases quite accurate...<br>
-<img src="https://github.com/koles289/udacity-Image-Captioning/blob/master/Good_example.png" width="300">
+<img src="https://github.com/koles289/udacity-Image-Captioning/blob/master/Good_example.png" width="1000">
  
  <br>but in some cases it was completly wrong.<br>
-img src="https://github.com/koles289/udacity-Image-Captioning/blob/master/bad_example.png" width="300">
+img src="https://github.com/koles289/udacity-Image-Captioning/blob/master/bad_example.png" width="1000">
 
 <br>Obvioulsly, the neural network can not generate accurate caption for objects that it sees for the first time and the result of this behavior are many funny captions...
