@@ -8,7 +8,7 @@
  <br>The result of training was automatically generated captios for sample images that were in many cases quite accurate...<br>
 ![alt text](https://github.com/koles289/udacity-Image-Captioning/blob/master/Good_example.png?raw=true)
  
- <br>but in many cases it was completly wrong.<br>
+ <br>but in some cases it was completly wrong.<br>
 ![alt text](https://github.com/koles289/udacity-Image-Captioning/blob/master/bad_example.png?raw=true)
 
 <br>Obvioulsly, the neural network can not generate accurate caption for objects that it sees for the first time and the result of this behavior are many funny captions...
