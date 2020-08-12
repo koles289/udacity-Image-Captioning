@@ -7,6 +7,7 @@
  
  <br>The result of training was automatically generated captios for sample images that were in many cases quite accurate...<br>
 ![alt text](https://github.com/koles289/udacity-Image-Captioning/blob/master/Good_example.png?raw=true)
+<img src="https://github.com/koles289/udacity-Image-Captioning/blob/master/Good_example.png" width="48">
  
  <br>but in some cases it was completly wrong.<br>
 ![alt text](https://github.com/koles289/udacity-Image-Captioning/blob/master/bad_example.png?raw=true)
