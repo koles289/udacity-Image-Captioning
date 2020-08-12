@@ -5,3 +5,4 @@
  The net was trained on captions for MS COCO dataset.
  For evaluation of neural network performance, we used perplexity. It measures how well the neural networks predits the sample. A low perplexity means that NN is good at predicting captions for samples.
  
+![alt text](https://github.com/koles289/udacity-Image-Captioning/blob/master/bad_example.png?raw=true)
